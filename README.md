@@ -1,6 +1,6 @@
 ### GitHub stats
 
-![Metrics](https://metrics.lecoq.io/yoyurec?template=classic&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=5&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=false&achievements.display=compact&achievements.limit=3&achievements.ignored=polyglot&config.timezone=Europe%2FKiev)
+![Metrics](https://metrics.lecoq.io/yoyurec?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=5&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FKiev)
 
 ![YoYurec GitHub stats](https://github-readme-stats.vercel.app/api?username=yoyurec&show_icons=true&theme=solarized-light)
 
